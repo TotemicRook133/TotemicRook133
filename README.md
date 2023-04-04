@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**TotemicRook133/TotemicRook133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adit.lohani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1add3it3) [![LinkedIn](https://img.shields.io/badge/-linkedin-c6c6c6?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/adit-lohani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AditLohani) 
 
