@@ -1,3 +1,11 @@
+- 🔭 I’m currently working on some projects to solve the problems of the community.
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on projects that help community improve.
+- 💬 Ask me about electronics, life, AutoCAD
+- 📫 How to reach me: Linkedin, Facebook, Instagram
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love mathematics.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adit.lohani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1add3it3) [![LinkedIn](https://img.shields.io/badge/-linkedin-c6c6c6?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/adit-lohani/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AditLohani) 
 
@@ -21,11 +29,4 @@
 [![](https://visitcount.itsvg.in/api?id=TotemicRook133&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently working on some projects to solve the problems of the community.
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on projects that help community improve.
-- 💬 Ask me about electronics, life, AutoCAD
-- 📫 How to reach me: Linkedin, Facebook, Instagram
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mathematics.
--->
+
