@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Adit+Prasad+Lohani;Electronics+Engineering+Student;Python+Enthusiast;Web+developer;STEM+Enthusiast)](https://git.io/typing-svg))>
+</p>
+
+
 - 🔭 I’m currently working on some projects to solve the problems of the community.
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects that help community improve.
